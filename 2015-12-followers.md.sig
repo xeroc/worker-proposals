@@ -1,0 +1,7 @@
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iEYEABECAAYFAlZ3vqQACgkQ8lOKSygtYjjmCACcC0puprg2bXsgMp6bg6AvMup5
+CuAAn3OXWq69pCZMllOcZ9ta71BEGQL/
+=79a7
+-----END PGP SIGNATURE-----
