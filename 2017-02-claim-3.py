@@ -30,11 +30,11 @@ bitshares.vesting_balance_withdraw(
     account=account
 )
 
-print("Buying as much bitUSD at price up to %s" % (
-    price * 1.10,
+print("Buying as much bitUSD at price up to %s or %s" % (
+    price * 0.90, (price * 0.90).copy().invert()
 ))
 market.buy(
-    price * 1.10,
+    price * 0.9,
     Amount(4100, "USD"),
     killfill=True,
     account=account
